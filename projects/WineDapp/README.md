@@ -1,2 +1,2 @@
-<h1 align="center">WineDapp 🍷</h1>
+<h1 align="center">VineStar 🍷</h1>
 <p></p>
